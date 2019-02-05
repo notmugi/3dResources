@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\sligwolf\grocel\radio\tex001"
-	"$blendtintbybasealpha" 1
-	"$blendtintcoloroverbase" "0.05"
-	"$model" 1
-}
-
-
