@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/stanmcg/tvHead/tvHead_02_wood_color"
+
+	"$phong" "1"
+	"$phongexponent" "1"
+	"$phongboost" "1"	
+	"$phongfresnelranges"	"[.3 1 1]"
+	"$halflambert" "1"
+
+
+	// Rim lighting parameters
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" ".1"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "1"
+
+}
